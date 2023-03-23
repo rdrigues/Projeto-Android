@@ -7,4 +7,6 @@ Projeto criado no capitulo 17 do curso de HTML e CSS
  este é o primeiro de muitos que estão por vir.
  
  <strong>visualize tambem pelo celular</strong> 
+
+
 ![frame](https://user-images.githubusercontent.com/128409445/227317881-ea333e50-6eec-4d81-b0e8-9a687637c580.png)
