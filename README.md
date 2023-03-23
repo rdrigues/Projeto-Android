@@ -6,7 +6,7 @@ Projeto criado no capitulo 17 do curso de HTML e CSS
  e tambem muito gratificante quando eu finalizei e dei um "passo para trás" para poder olhar oque eu consegui realizar. Projeto pode parecer simples mais concerteza
  este é o primeiro de muitos que estão por vir.
  
- <strong>visualize tambem pelo celular</strong> 
+ 
 
 
-![frame](https://user-images.githubusercontent.com/128409445/227317881-ea333e50-6eec-4d81-b0e8-9a687637c580.png)
+![frame-removebg-preview](https://user-images.githubusercontent.com/128409445/227318986-e58dbe2f-ffad-4ad9-9f4e-19a1cb7d403a.png)
